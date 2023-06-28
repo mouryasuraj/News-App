@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import MenuBar from './Icons/MenuBar'
+
 import { Link } from 'react-router-dom'
 
 export class NavBar extends Component {
@@ -18,7 +19,7 @@ export class NavBar extends Component {
 
   render() {
     return (
-      <nav className='bg-gray-700 text-white lg:p-2 p-4 sticky top-0'>
+      <nav className='bg-slate-50 border-b-[2px] border-slate-300 text-black lg:p-2 p-4 sticky top-0'>
         <div className="logo lg:flex items-center justify-between ">
             <h1 className='text-2xl font-semibold mr-12 cursor-pointer'><Link to="/">NewsWave </Link></h1>
             {/* MenuBar */}
