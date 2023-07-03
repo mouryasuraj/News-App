@@ -12,15 +12,24 @@ In this project, you can see news across the world according to your category. I
 ### Screenshots
 
 #### Big Devices:
+
 ##### Category: Business
+
 ![Screenshot (164)](https://github.com/mouryasuraj/News-App/assets/95537899/9ca36ad5-b14e-4e5e-8f27-3d067712e0f3)
-#### Category: Business
+
+#### Category: Science
+
 ![Screenshot (165)](https://github.com/mouryasuraj/News-App/assets/95537899/b281bf67-930f-457f-bfc3-5f05656032bb)
+
 #### Category: Technology
+
 ![Screenshot (166)](https://github.com/mouryasuraj/News-App/assets/95537899/190fc629-b9ea-4b78-8624-486e57d43599)
 
 #### Mobile/Tab 
+
 ![Screenshot (167)](https://github.com/mouryasuraj/News-App/assets/95537899/6ef6e56f-a586-41a0-9017-49d5ab85e666)
+
+
 ![Screenshot (168)](https://github.com/mouryasuraj/News-App/assets/95537899/ced87b2d-775b-4d01-bcd4-f8c0460ad540)
 
 
