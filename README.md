@@ -7,7 +7,7 @@ Get daily news on NewsWave.
 
 ### About the app
 
-In this project, you can see news across the world according to your category. If you want entertainment news you can easily click on the entertainment button and enjoy. I made this application for my React.Js Project. I used [News Api](https://newsapi.org/) for this project. I cannot deploy this project live because i have taken the developer options for the project. So, I attached the screenshots below so you can see my site.
+In this project, you can see news across the world according to your category. If you want entertainment news you can easily click on the entertainment button and enjoy. I made this application for my React.Js Project. I used [News Api](https://newsapi.org/) for this project. I cannot deploy this project live because i have taken the developer options for the project. So, I attached the screenshots below so you can easily see how my site looks.
 
 ### Screenshots
 
@@ -52,5 +52,5 @@ I used React.js, TailwindCSS,  Api for the news from [News Api](https://newsapi.
 - Tailwind Css
 
 
-### Final Words
+
 Thank you for staying with me up to this point.
